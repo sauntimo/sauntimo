@@ -26,7 +26,7 @@
 </div>
 
 ### Experience
-I'm a Senior Software Engineer at [`Loopin`](https://letsloopin.com). Here's my [`resume`](https://github.com/sauntimo/resume).
+I'm a Senior Software Engineer at [`Loopin`](https://letsloopin.com). Here's my [`resumé`](https://github.com/sauntimo/resume).
 
 ### Open Source
 
