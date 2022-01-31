@@ -1,9 +1,9 @@
 # Hi, I'm Tim 👋
 
-### Find me here
+### 🔗 Links
 [`Github`](https://github.com/sauntimo) [`Stack Overflow`](https://stackoverflow.com/users/4293734/sauntimo) [`LinkedIn`](https://www.linkedin.com/in/sauntimo) [`Twitter`](https://twitter.com/sauntimo) [`Last.fm`](https://last.fm/user/sauntimo) [`Instagram`](https://instagram.com/sauntimo) [`Steam`](https://steamcommunity.com/id/sauntimo)
 
-### I make stuff with 
+### 💻 Tech
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="Typescript" alt="Nypescript" width="40" height="40"/>&nbsp;
@@ -25,10 +25,10 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode" alt="VSCode" width="40" height="40"/>&nbsp; 
 </div>
 
-### Experience
+### 👨‍💻 Experience
 I'm a Senior Software Engineer at [`Loopin`](https://letsloopin.com). Here's my [`resumé`](https://github.com/sauntimo/resume).
 
-### Open Source
+### 🤝 Open Source
 
 #### [`ts-prune`](https://www.npmjs.com/package/ts-prune)
 
