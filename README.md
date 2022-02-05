@@ -1,3 +1,94 @@
+<a href="https://twitter.com/sauntimo" target="_blank">
+  <svg
+    fill="none"
+    viewBox="0 0 800 200"
+    width="800"
+    height="200"
+    xmlns="http://www.w3.org/2000/svg"
+  >
+    <foreignObject width="100%" height="100%">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <style>
+          @keyframes rotate {
+            0% {
+              transform: rotate(5deg);
+            }
+            100% {
+              transform: rotate(-5deg);
+            }
+          }
+          @keyframes fadeIn {
+            0% {
+              opacity: 0;
+            }
+            66% {
+              opacity: 0;
+            }
+            100% {
+              opacity: 1;
+            }
+          }
+          @keyframes gradientBackground {
+            0% {
+              background-position: 0% 50%;
+            }
+            50% {
+              background-position: 100% 50%;
+            }
+            100% {
+              background-position: 0% 50%;
+            }
+          }
+          .container {
+            font-family: Roboto, system-ui, -apple-system, "Segoe UI", Helvetica,
+              Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji";
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            margin: 0;
+            width: 100%;
+            height: 200px;
+            background: linear-gradient(-45deg, #fc5c7d, #6a82fb, #05dfd7);
+            background-size: 600% 400%;
+            animation: gradientBackground 10s ease infinite;
+            border-radius: 10px;
+            color: white;
+            text-align: center;
+          }
+          h1 {
+            font-size: 100px;
+            line-height: 1.3;
+            letter-spacing: -2px;
+            text-shadow: 0 0 10px rgba(0, 0, 0, 0.6);
+          }
+          .wave {
+            display: inline-block;
+            visibility: hidden;
+            animation: rotate ease-in-out 1s infinite alternate;
+          }
+          .container:hover .wave {
+            visibility: visible;
+          }
+          .container:hover {
+            cursor: pointer;
+          }
+          .container:hover .name {
+            text-decoration: underline;
+          }
+        </style>
+        <div class="container">
+          <h1>
+            @<span class="name">sauntimo</span>
+            <span class="wave">👋</span>
+          </h1>
+        </div>
+      </div>
+    </foreignObject>
+  </svg>
+</a>
+
+
 # Hi, I'm Tim 👋
 
 ### 🔗 Links
