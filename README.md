@@ -33,3 +33,7 @@ I'm a Senior Software Engineer at [`Loopin`](https://letsloopin.com). Here's my 
 #### [`ts-prune`](https://www.npmjs.com/package/ts-prune)
 
 CLI tool with ~250k+ downloads/month on npm to find unused code in typescript projects. [Added a small feature](https://github.com/nadeesha/ts-prune/pull/140) to allow specfifying a pattern to exclude files from counting toward code use, for instance `.test.ts` - so that functions that were tested but not used anywhere else in the codebase could still be identified and removed.
+
+#### [`firebase-to-supabase`](https://github.com/supabase-community/firebase-to-supabase)
+
+Community tool to migrate from [Firebase](https://firebase.google.com/) to [Supabase](https://supabase.com/). [Improved some documentation](https://github.com/supabase-community/firebase-to-supabase/pull/1), [fixed a bug with variable scoping](https://github.com/supabase-community/firebase-to-supabase/pull/2) and [improved a query](https://github.com/supabase-community/firebase-to-supabase/pull/3) to skip legitimate duplicate records.
