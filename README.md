@@ -41,3 +41,8 @@ Community tool to migrate from [Firebase](https://firebase.google.com/) to [Supa
 #### [`fig`](https://fig.io)
 
 Added the [`gh clone` autocompletion spec](https://github.com/withfig/autocomplete/pull/69) for the [GitHub CLI](https://github.com/cli/cli) in Fig, which adds VSCode-style autocomplete to the terminal.
+
+
+#### [`slate`](https://github.com/ianstormtaylor/slate)
+
+[Updated some documentation](https://github.com/ianstormtaylor/slate/pull/3031) for consistency in this popular (~1.2m downloads/month on npm) rich text editor.
