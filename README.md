@@ -32,7 +32,7 @@ I'm a Senior Software Engineer at [`Loopin`](https://letsloopin.com). Here's my 
 
 #### [`ts-prune`](https://www.npmjs.com/package/ts-prune)
 
-CLI tool with ~250k+ downloads/month on npm to find unused code in typescript projects. [Added a small feature](https://github.com/nadeesha/ts-prune/pull/140) to allow specfifying a pattern to exclude files from counting toward code use, for instance `.test.ts` - so that functions that were tested but not used anywhere else in the codebase could still be identified and removed.
+CLI tool with ~250k+ downloads/month on [npm](https://www.npmjs.com/package/ts-prune) to find unused code in typescript projects. [Added a small feature](https://github.com/nadeesha/ts-prune/pull/140) to allow specfifying a pattern to exclude files from counting toward code use, for instance `.test.ts` - so that functions that were tested but not used anywhere else in the codebase could still be identified and removed.
 
 #### [`firebase-to-supabase`](https://github.com/supabase-community/firebase-to-supabase)
 
@@ -45,4 +45,4 @@ Added the [`gh clone` autocompletion spec](https://github.com/withfig/autocomple
 
 #### [`slate`](https://github.com/ianstormtaylor/slate)
 
-[Updated some documentation](https://github.com/ianstormtaylor/slate/pull/3031) for consistency in this popular (~1.2m downloads/month on npm) rich text editor.
+[Updated some documentation](https://github.com/ianstormtaylor/slate/pull/3031) for consistency in this popular (~1.2m downloads/month on [npm](https://www.npmjs.com/package/slate)) rich text editor.
