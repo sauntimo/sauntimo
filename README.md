@@ -37,3 +37,7 @@ CLI tool with ~250k+ downloads/month on npm to find unused code in typescript pr
 #### [`firebase-to-supabase`](https://github.com/supabase-community/firebase-to-supabase)
 
 Community tool to migrate from [Firebase](https://firebase.google.com/) to [Supabase](https://supabase.com/). [Improved some documentation](https://github.com/supabase-community/firebase-to-supabase/pull/1), [fixed a bug with variable scoping](https://github.com/supabase-community/firebase-to-supabase/pull/2) and [improved a query](https://github.com/supabase-community/firebase-to-supabase/pull/3) to skip legitimate duplicate records.
+
+#### [`fig`](https://fig.io)
+
+Added the [`gh clone` autocompletion spec](https://github.com/withfig/autocomplete/pull/69) for the [GitHub CLI](https://github.com/cli/cli) in Fig, which adds VSCode-style autocomplete to the terminal.
